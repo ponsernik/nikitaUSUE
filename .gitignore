@@ -1,0 +1,27 @@
+# Временные файлы ОС
+Thumbs.db
+.DS_Store
+
+# Логи и кэш
+*.log
+*.tmp
+*.temp
+
+# Файлы IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Сборки и зависимости
+node_modules/
+bin/
+obj/
+*.exe
+*.dll
+*.so
+
+# Конфиденциальные данные
+.env
+config/secrets.yml
+*.key
