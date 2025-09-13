@@ -1,1 +1,2 @@
 
+"Изменение из conflict-branch" 
